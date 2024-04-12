@@ -1,6 +1,5 @@
 <h1 align="center">Hello potential job interviewers 👋, I'm Jonathan Face</h1>
-<h3 align="center">I'm a full-stack developer in Texas with about (yikes) 20 years experience.</h3>
-<h4>I'm specialized in GoLang and React on AWS</h4>
+<h3 align="center">I'm a full-stack developer in Texas with about (yikes) 20 years experience, specialized in GoLang and React/Typescript on AWS.</h3>
 
 - 🔭 I’m currently working on [Docter.io](https://docter.io)
 
