@@ -1,11 +1,10 @@
 <h1 align="center">Hello potential job interviewers 👋, I'm Jonathan Face</h1>
-<h3 align="center">I'm a software developer in Texas with about (yikes) 20 years experience.</h3>
+<h3 align="center">I'm a full-stack developer in Texas with about (yikes) 20 years experience.</h3>
+<h4>I'm specialized in GoLang and React on AWS</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanface" alt="jonathanface" /></a> </p>
+- 🔭 I’m currently working on [Docter.io](https://docter.io)
 
-- 🔭 I’m currently working on [Docter](https://docter.io)
-
-- ⚡ Fun fact \*\*When I'm not coding, I write novels: <a href="https://www.amazon.com/stores/Jonathan-Face/author/B0054R4PKK" target="_blank">Author Page</a>
+- ⚡ When I'm not coding, I write novels: <a href="https://www.amazon.com/stores/Jonathan-Face/author/B0054R4PKK" target="_blank">Author Page</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
