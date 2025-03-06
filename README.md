@@ -1,4 +1,4 @@
-<h1 align="center">Hello potential job interviewers./h1>
+<h1 align="center">Hello potential job interviewers.</h1>
 <h3 align="center">I'm a full-stack developer in Texas with about 20 (ugh) years experience, specialized in GoLang and React/Typescript on AWS.</h3>
 
 - 🔭 I’m currently working on [Docter.io](https://docter.io)
